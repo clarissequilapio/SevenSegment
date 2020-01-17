@@ -43,6 +43,22 @@
             btn5.BackColor = Color.LightGray
             btn6.BackColor = Color.Red
             btn7.BackColor = Color.Red
+        ElseIf counter = 6 Then
+            btn1.BackColor = Color.Red
+            btn2.BackColor = Color.Red
+            btn3.BackColor = Color.LightGray
+            btn4.BackColor = Color.Red
+            btn5.BackColor = Color.Red
+            btn6.BackColor = Color.Red
+            btn7.BackColor = Color.Red
+        ElseIf counter = 7 Then
+            btn1.BackColor = Color.Red
+            btn2.BackColor = Color.LightGray
+            btn3.BackColor = Color.Red
+            btn4.BackColor = Color.LightGray
+            btn5.BackColor = Color.LightGray
+            btn6.BackColor = Color.Red
+            btn7.BackColor = Color.LightGray
 
         End If
 
