@@ -8,3 +8,4 @@ C:\Users\Clarisse\source\repos\SevenSegmentDisplay\SevenSegmentDisplay\obj\Debug
 C:\Users\Clarisse\source\repos\SevenSegmentDisplay\SevenSegmentDisplay\obj\Debug\SevenSegmentDisplay.exe
 C:\Users\Clarisse\source\repos\SevenSegmentDisplay\SevenSegmentDisplay\obj\Debug\SevenSegmentDisplay.xml
 C:\Users\Clarisse\source\repos\SevenSegmentDisplay\SevenSegmentDisplay\obj\Debug\SevenSegmentDisplay.pdb
+C:\Users\Clarisse\source\repos\SevenSegmentDisplay\SevenSegmentDisplay\obj\Debug\SevenSegmentDisplay.Form1.resources
