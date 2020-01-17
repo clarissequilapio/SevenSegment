@@ -1,8 +1,16 @@
 ﻿Public Class Form1
     Private counter As Integer = 0
     Private Sub Timer1_Tick(sender As Object, e As EventArgs) Handles Timer1.Tick
-        counter += 1
-        If counter = 1 Then
+        If counter = 0 Then
+            btn1.BackColor = Color.Green
+            btn2.BackColor = Color.Green
+            btn3.BackColor = Color.Green
+            btn4.BackColor = Color.LightGray
+            btn5.BackColor = Color.Green
+            btn6.BackColor = Color.Green
+            btn7.BackColor = Color.Green
+
+        ElseIf counter = 1 Then
             btn1.BackColor = Color.LightGray
             btn2.BackColor = Color.LightGray
             btn3.BackColor = Color.Green
@@ -67,7 +75,8 @@
             btn5.BackColor = Color.Green
             btn6.BackColor = Color.Green
             btn7.BackColor = Color.Green
-        ElseIf counter = 9 Then
+        End If
+        If counter = 9 Then
             btn1.BackColor = Color.Green
             btn2.BackColor = Color.Green
             btn3.BackColor = Color.Green
@@ -75,6 +84,10 @@
             btn5.BackColor = Color.LightGray
             btn6.BackColor = Color.Green
             btn7.BackColor = Color.Green
+
+            counter = 0
+        Else
+            counter += 1
         End If
 
 
@@ -90,5 +103,9 @@
         btn5.BackColor = Color.Green
         btn6.BackColor = Color.Green
         btn7.BackColor = Color.Green
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) 
+
     End Sub
 End Class
