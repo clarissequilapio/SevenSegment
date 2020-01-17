@@ -1,0 +1,10 @@
+C:\Users\Clarisse\source\repos\SevenSegmentDisplay\SevenSegmentDisplay\bin\Debug\SevenSegmentDisplay.exe.config
+C:\Users\Clarisse\source\repos\SevenSegmentDisplay\SevenSegmentDisplay\bin\Debug\SevenSegmentDisplay.exe
+C:\Users\Clarisse\source\repos\SevenSegmentDisplay\SevenSegmentDisplay\bin\Debug\SevenSegmentDisplay.pdb
+C:\Users\Clarisse\source\repos\SevenSegmentDisplay\SevenSegmentDisplay\bin\Debug\SevenSegmentDisplay.xml
+C:\Users\Clarisse\source\repos\SevenSegmentDisplay\SevenSegmentDisplay\obj\Debug\SevenSegmentDisplay.vbprojAssemblyReference.cache
+C:\Users\Clarisse\source\repos\SevenSegmentDisplay\SevenSegmentDisplay\obj\Debug\SevenSegmentDisplay.Resources.resources
+C:\Users\Clarisse\source\repos\SevenSegmentDisplay\SevenSegmentDisplay\obj\Debug\SevenSegmentDisplay.vbproj.GenerateResource.cache
+C:\Users\Clarisse\source\repos\SevenSegmentDisplay\SevenSegmentDisplay\obj\Debug\SevenSegmentDisplay.exe
+C:\Users\Clarisse\source\repos\SevenSegmentDisplay\SevenSegmentDisplay\obj\Debug\SevenSegmentDisplay.xml
+C:\Users\Clarisse\source\repos\SevenSegmentDisplay\SevenSegmentDisplay\obj\Debug\SevenSegmentDisplay.pdb
