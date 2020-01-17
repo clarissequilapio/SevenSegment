@@ -11,6 +11,14 @@
             btn6.BackColor = Color.Red
             btn7.BackColor = Color.LightGray
 
+        ElseIf counter = 2 Then
+            btn1.BackColor = Color.Red
+            btn2.BackColor = Color.LightGray
+            btn3.BackColor = Color.Red
+            btn4.BackColor = Color.Red
+            btn5.BackColor = Color.Red
+            btn6.BackColor = Color.LightGray
+            btn7.BackColor = Color.Red
         End If
 
 
